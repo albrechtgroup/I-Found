@@ -1,4 +1,5 @@
 alert("I Found Inspiration!");
 
-const button = document.querySelector("#postButton");
+const foundButton = document.querySelector("#foundButton");
+const lostButton = document.querySelector("#lostButton");
 
