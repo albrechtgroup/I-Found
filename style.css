@@ -1,3 +1,19 @@
 body {
-    background-color: bisque;
+    background-color: skyblue;
+}
+
+#navBar {
+    background-color: blanchedalmond;
+    text-align: center;
+    border: 2px solid blue;
+    height: 180px;
+}
+
+#lost {
+    background-color: azure;
+    text-align: center;
+    border: 2px solid blue;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 20px;
 }
